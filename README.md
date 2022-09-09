@@ -1,9 +1,9 @@
 ### Hi there, I'm ABU SAID <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-![](https://komarev.com/ghpvc/?username=alifbinhossain&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
 
 - 🔭 Focusing on MERN.😎
-- 🌱 I’m currently learning Next JS ❤
+- 🌱 I’m currently learning NestJS and Golang ❤
 - 💻 I love to exploring new tech stack and building cool stuffs.
 - 📰 Reading tech documentations whenever possible.
 - 🥅 2022 Goals: Want to be a Fullstack Web Developer.
@@ -14,6 +14,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 
 <br>
 
@@ -39,8 +40,9 @@
 
 <br>
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alifbinhossain&custom_title=This_week_I_spent_my_time_on&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=said7388&custom_title=This_week_I_spent_my_time_on&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
-[twitter]: https://twitter.com/AlifBinHossain2
-[instagram]: https://www.instagram.com/alifbinhossain_/?hl=en
-[linkedin]: https://www.linkedin.com/in/alifbinhossain/
+[twitter]: https://twitter.com/said7388
+[instagram]: https://www.instagram.com/abu_said_bd/?hl=en
+[linkedin]: https://www.linkedin.com/in/abu-said-bd/
+[facebook]: https://www.facebook.com/abusaid.riyaz/
