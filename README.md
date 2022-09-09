@@ -1,5 +1,15 @@
 ### Hi there, I'm ABU SAID <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
+<h1 align="center">
+4
+  <a href="https://git.io/typing-svg">
+5
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ABU+SAID....;Nice+to+meet+you!&center=true&size=30">
+6
+  </a>
+7
+</h1>
+
 ![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
 
 - 🔭 Focusing on FullStack.😎
