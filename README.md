@@ -49,10 +49,10 @@
 
 ### My Github Status:
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=said7388&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Abu Said's github status" /></a>
+<a href="https://github.com/said7388"><img align="center" src="https://github-readme-stats.vercel.app/api?username=said7388&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Abu Said's github status" /></a>
 
 ---
 
 ### Top Usage Languages:
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" /></a>
+<a href="https://github.com/said7388"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" /></a>
