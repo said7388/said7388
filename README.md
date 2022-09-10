@@ -63,11 +63,11 @@
 
 ---
 
-### Last Month Activity:
+### Current Month Activity:
 
 <!-- Activity graph -->
 <p align="center">
 <a href="#">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=said7388&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Abu Said's monthly coding activity" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=said7388&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&hide_border=true&area=true" alt="Abu Said's monthly coding activity" />
 </a>
 </p>
