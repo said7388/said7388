@@ -60,3 +60,14 @@
 ### Top Usage Languages:
 
 <a href="https://github.com/said7388"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" /></a>
+
+---
+
+### Last Month Activity:
+
+<!-- Activity graph -->
+<p align="center">
+<a href="#">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=said7388&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Abu Said's monthly coding activity" />
+</a>
+</p>
