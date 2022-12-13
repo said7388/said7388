@@ -53,13 +53,13 @@
 
 ### My Github Status:
 
-<a href="https://github.com/said7388"><img align="center" src="https://github-readme-stats.vercel.app/api?username=said7388&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Abu Said's github status" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=said7388&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Abu Said's github status" />
 
 ---
 
 ### Top Usage Languages:
 
-<a href="https://github.com/said7388"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
 
 ---
 
@@ -67,7 +67,6 @@
 
 <!-- Activity graph -->
 <p align="center">
-<a href="#">
+
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=said7388&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&hide_border=true&area=true" alt="Abu Said's monthly coding activity" />
-</a>
 </p>
