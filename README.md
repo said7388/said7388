@@ -71,8 +71,8 @@
 
 ### Current Month Activity:
 
-<!-- Activity graph -->
-<p align="center">
+<br/> 
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=said7388&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&hide_border=true&area=true" alt="Abu Said's monthly coding activity" />
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/VishwaGauravIn/VishwaGauravIn/output/github-contribution-grid-snake.svg" align="center" height="" width="1000" />
+</div>  
