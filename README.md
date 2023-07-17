@@ -68,11 +68,3 @@
 <a href="https://stardev.io/developers/said7388"><img alt="Check out said7388's profile on stardev.io" src="https://stardev.io/developers/said7388/badge/languages/locality.svg" /></a>
 
 ---
-
-### Current Month Activity:
-
-<br/> 
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/VishwaGauravIn/VishwaGauravIn/output/github-contribution-grid-snake.svg" align="center" height="" width="1000" />
-</div>  
