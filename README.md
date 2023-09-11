@@ -7,9 +7,9 @@
 ![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
 
 - 🔭 Focusing on FullStack.😎
-- 🌱 Trying to expert in NextJS and NestJS ❤
-- 💻 I love to exploring new tech stack and building cool stuffs.
-- 📰 Reading tech documentations whenever possible.
+- 🌱 Trying to become an expert in NextJS and NestJS ❤
+- 💻 I love exploring new tech stacks and building cool stuff.
+- 📰 Reading tech documentation whenever possible.
 - 🥅 2023 Goals: Want to be a Fullstack Web Developer.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 
@@ -53,7 +53,7 @@
 
 ### My Github Status:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=said7388&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Abu Said's github status" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=said7388&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Abu Said's GitHub status" />
 
 ---
 
