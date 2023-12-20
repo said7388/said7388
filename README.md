@@ -73,10 +73,10 @@
 ### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/said7388/developer-portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=developer-portfolio&theme=nightowl" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/said7388/said7388">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=said7388&theme=nightowl" />
 </a>
 
