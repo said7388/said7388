@@ -51,10 +51,14 @@
 
 ---
 
-### My Github Status:
+### My Github Stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=said7388&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Abu Said's GitHub status" />
-
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=said7388&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Abu Said's GitHub status" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=said7388&theme=nightowl" alt="said7388" />
+</p>
 ---
 
 ### Top Usage Languages:
