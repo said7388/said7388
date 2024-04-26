@@ -64,7 +64,7 @@
 
 ### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=yeblu&hide_border=true&&langs_count=10" />
 
 ---
 
